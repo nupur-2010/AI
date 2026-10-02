@@ -24,7 +24,7 @@ async def main():
     model = ChatGroq(model="openai/gpt-oss-20b")
     tools = await client.get_tools()
     agent = create_react_agent(model, tools)
-    math_result = await agent.ainvoke({"messages" : [{"role" : "user", "content" : "You MUST use the MCP math tools to answer this. Do not calculate it yourself.What is 5 + 10 * 2?"}]})
+    math_result = await agent.ainvoke({"messages" : [{"role" : "user", "content" : "You MUST use the MCP math tools to answer this. Do not calculate it yourself.cWhat is 5 + 10 * 2?"}]})
     print(math_result["messages"][-1].content)
     print()
     weather_result = await agent.ainvoke({"messages" : [{"role" : "user", "content" : "You MUST use the MCP weather tool to answer this. Do not find it yourself. What is the current weather in Mumbai?"}]})
