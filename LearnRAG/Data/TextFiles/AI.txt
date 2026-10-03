@@ -1,0 +1,4 @@
+Artificial Intelligence (AI) is the broader field of computer science focused on creating computer systems that can perform tasks that normally require human intelligence. 
+These tasks include learning from experience, reasoning, problem solving, understanding natural language, recognizing images and speech, making decisions, and interacting with humans. 
+AI includes many different approaches and technologies, including rule-based systems, Machine Learning, Deep Learning, Natural Language Processing, computer vision, robotics, and Generative AI.
+Machine Learning and Deep Learning are therefore important parts of the broader field of Artificial Intelligence.

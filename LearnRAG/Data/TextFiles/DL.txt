@@ -1,0 +1,4 @@
+Deep Learning (DL) is a specialized subset of Machine Learning that uses artificial neural networks with multiple layers to automatically learn complex patterns and representations from large amounts of data. 
+Unlike many traditional machine learning approaches, deep learning can automatically learn useful features from raw data, reducing the need for extensive manual feature engineering. 
+Deep Learning is particularly powerful for working with images, audio, video, and natural language.
+Popular deep learning architectures include Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers, and other neural network models.

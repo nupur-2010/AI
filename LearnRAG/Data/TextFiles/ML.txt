@@ -1,0 +1,4 @@
+Machine Learning (ML) is a subset of Artificial Intelligence that enables computers to learn patterns and relationships from data and make predictions or decisions without being explicitly programmed for every individual task. 
+Instead of relying only on predefined rules, machine learning algorithms learn from examples and improve their performance as they are exposed to more data. 
+Machine Learning is commonly divided into supervised learning, unsupervised learning, and reinforcement learning. 
+It is widely used in applications such as spam detection, fraud detection, recommendation systems, customer segmentation, price prediction, and forecasting.
